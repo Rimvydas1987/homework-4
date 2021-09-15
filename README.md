@@ -1,10 +1,12 @@
-# REACT JS HOMEWORK - 3
+# REACT JS HOMEWORK - 4
 
 Užduotis:
-Padaryti tris kontroliuojamus inputus du text tipo ir vienas checkbox. 
-Vienas inputas turi keisti apskritimo spalvą, 
-kitas apskritimo skersmenį 
-ir trečias- kai pažymėtas turi pakeisti apskritimą į kvadratą
+Reikia padaryti kad būtų du mygtukai. 
+Vienas kuria apskritimus (karves), 
+kitas kuria keturkampius (bulius). 
+Viskas viename masyve ir draugauja su localStorage
+
+Spalvos inputas vienas ir taspats abiem mygtukam
 
 
 
